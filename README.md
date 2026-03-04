@@ -1,16 +1,14 @@
-## Hi there 👋
+# Shiny Object Studio 🐝
 
-<!--
-**shinyobjectstudio/shinyobjectstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Systems for the AI Era
 
-Here are some ideas to get you started:
+Shiny Object Studio designs digital systems that make complex information clear, structured, and AI-visible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Information architecture  
+• AI-search-ready websites  
+• scalable content ecosystems  
+• systems that improve over time  
+
+---
+
+Gather ideas. Build the hive. Make it thrive.
