@@ -9,7 +9,7 @@ Shiny Object Studio designs digital systems that make complex information clear,
 ## Focus Areas
 
 • Information architecture  
-• AI-search-ready websites  
+• AI-ready website architecture 
 • scalable content ecosystems  
 • digital systems that improve over time  
 
